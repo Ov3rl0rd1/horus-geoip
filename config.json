@@ -1,0 +1,13 @@
+{
+  "source_repository": "Dreamacro/maxmind-geoip",
+  "source_asset": "Country.mmdb",
+  "country_field": "both",
+  "country_codes": [
+    "ru"
+  ],
+  "output_file": "geoip.dat",
+  "category": "ru",
+  "exclude_category": "",
+  "include": [],
+  "exclude": []
+}

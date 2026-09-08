@@ -1,6 +1,8 @@
 /.idea/
 /vendor/
-/*.db
+/*.dat
+/*.sha256sum
 *.mmdb
-/rule-set/
 /release/
+/horus-geoip
+/horus-geoip.exe
